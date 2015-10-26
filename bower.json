@@ -1,0 +1,26 @@
+{
+    "name": "angular-beyond-basics-user-module",
+    "homepage": "https://github.com/goodlearnorg/angular-beyond-basics-user-module",
+    "authors": [
+    "Rafael França <rafael.openedu@outlook.com>"
+  ],
+    "description": "Project used to development course AngularJS beyond basics",
+    "main": "app.js",
+    "moduleType": [
+    "amd"
+  ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+    "dependencies": {
+        "angular-ui-router": "~0.2.15",
+        "bootstrap": "~3.3.5",
+        "angular": "~1.4.7"
+    }
+}
